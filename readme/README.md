@@ -24,7 +24,7 @@ Analysis: As the size increases, the C implementation may become less efficient 
 
 
 
-
+----------------------------------------------------------------------
 
 
 screenshot for both correctness check
