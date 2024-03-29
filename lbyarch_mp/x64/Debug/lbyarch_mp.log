@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\mac\source\repos\lbyarch_mp\main.c(58,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lbyarch_mp.vcxproj -> C:\Users\mac\source\repos\lbyarch_mp\x64\Debug\lbyarch_mp.exe
