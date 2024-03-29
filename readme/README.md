@@ -22,4 +22,11 @@ Analysis: As the size increases, the C implementation may become less efficient 
 
 
 
+
+
+
+
+
+screenshot for both correctness check
+
 ![App Screenshot](https://github.com/DawnSingularity/LBYARCH_MP/blob/main/readme/Screenshot%20correctness%20check%20both.png)
