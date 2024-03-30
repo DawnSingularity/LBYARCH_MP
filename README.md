@@ -44,9 +44,7 @@ Average execution time (C): 0.000767 seconds
 
 Average execution time (Assembly): 0.001933 seconds
 
-Analysis: Both implementations show improved performance compared to debug mode.
-
-	   Assembly execution time is notably slower than in debug mode, possibly due to different optimizations in release mode.
+Analysis: Both implementations show improved performance compared to debug mode. Assembly execution time is notably slower than in debug mode, possibly due to different optimizations in release mode.
 
 
 size 24
@@ -55,9 +53,7 @@ Average execution time (C): 0.013400 seconds
 
 Average execution time (Assembly): 0.025533 seconds
 
-Analysis: Performance improves in both implementations compared to debug mode.
-
-	  Assembly execution time is noticeably faster than C, but the gap is not as significant as in debug mode.
+Analysis: Performance improves in both implementations compared to debug mode. Assembly execution time is noticeably faster than C, but the gap is not as significant as in debug mode.
 
 
 size 28
