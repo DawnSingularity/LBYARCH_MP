@@ -60,4 +60,4 @@ Analysis: The differences in execution times become even more pronounced in rele
 
 
 
-![App Screenshot](https://github.com/DawnSingularity/LBYARCH_MP/blob/main/screenshot/Screenshot%20correctness%20release%20mode.png)
+![App Screenshot](https://github.com/DawnSingularity/LBYARCH_MP/blob/main/screenshot/screenshot%20correctness%20release%20mode.png)
