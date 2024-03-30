@@ -136,6 +136,8 @@
       <FileType>Document</FileType>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">"C:\Program Files (x86)\SASM\NASM\nasm.exe" -f win64 saxpy.asm</Command>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">saxpy.obj</Outputs>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">"C:\Program Files (x86)\SASM\NASM\nasm.exe" -f win64 saxpy.asm</Command>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">saxpy.obj</Outputs>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>

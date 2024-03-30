@@ -1,0 +1,2 @@
+^C:\USERS\MAC\SOURCE\REPOS\LBYARCH_MP\SAXPY.ASM
+"C:\Program Files (x86)\SASM\NASM\nasm.exe" -f win64 saxpy.asm

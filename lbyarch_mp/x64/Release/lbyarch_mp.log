@@ -1,2 +1,6 @@
-﻿main.obj : error LNK2001: unresolved external symbol saxpy
-C:\Users\mac\source\repos\lbyarch_mp\x64\Release\lbyarch_mp.exe : fatal error LNK1120: 1 unresolved externals
+﻿  Performing Custom Build Tools
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  lbyarch_mp.vcxproj -> C:\Users\mac\source\repos\lbyarch_mp\x64\Release\lbyarch_mp.exe
